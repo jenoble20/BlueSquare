@@ -3,7 +3,7 @@
 
 redTextbox = noone;
 
-myText[0] = "Did Red ask you to come over here and fuck with me?"
+myText[0] = "This all seems familiar... Did Red ask you to come over here and fuck with me?"
 myText[1] = "......"
 myText[2] = "...well... good work then I guess..."
 
