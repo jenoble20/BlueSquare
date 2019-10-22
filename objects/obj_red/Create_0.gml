@@ -2,8 +2,8 @@
 // You can write your code in this editor
 
 redTextbox = noone;
-xPos = x-100;
-yPos = y+40;
+xPos = x;
+yPos = y+68;
 
 startText[0] = "Did Blue ask you to come over here and fuck with me?";
 startText[1] = "......";

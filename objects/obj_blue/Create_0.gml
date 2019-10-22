@@ -2,8 +2,8 @@
 // You can write your code in this editor
 
 blueTextbox = noone;
-xPos = x-200;
-yPos = y+40;
+xPos = x;
+yPos = y+68;
 
 startText[0] = "Hi. I'm Blue.";
 startText[1] = "Go over there and harass Red for me.";
