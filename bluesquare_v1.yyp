@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "63838644-f004-469e-905f-a42cd1ad60ee",
+            "Value": {
+                "id": "397bf6a9-6188-48f3-a388-fd3ace0f3b89",
+                "resourcePath": "objects\\obj_clickBox\\obj_clickBox.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "63f1cd07-bf7f-4abe-a592-98b482f0ba74",
             "Value": {
                 "id": "ae419672-4b88-4948-a39c-8815ac546aa9",
@@ -175,6 +183,14 @@
             }
         },
         {
+            "Key": "918f9eaf-d117-442f-b6fd-af2f2a2b818d",
+            "Value": {
+                "id": "1b933038-7a77-44d1-9498-70bab45f5ab2",
+                "resourcePath": "objects\\obj_npc\\obj_npc.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "922a36e6-9386-41f6-bee7-20d31fe0219a",
             "Value": {
                 "id": "8283d203-75b3-440e-b821-68cbd4df1ceb",
@@ -204,6 +220,14 @@
                 "id": "abbfb720-4edd-4788-94d9-9a553847874d",
                 "resourcePath": "views\\abbdef06-987b-4d48-9c67-394dfa8de5cb.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ad01e905-a666-413e-ae7e-d14dcdbc11c5",
+            "Value": {
+                "id": "aa570fe9-3040-44ae-ab20-672e40322ce0",
+                "resourcePath": "sprites\\spr_clickBox\\spr_clickBox.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
