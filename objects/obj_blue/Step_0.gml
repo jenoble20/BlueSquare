@@ -14,6 +14,11 @@ if(place_meeting(x,y, obj_player)){
 		blueTextbox.text = stepText;
 	}
 	
+	if string_pos("*", blueTextbox) != 0 
+		{
+			inst = instance_create(xPos, yPos, obj_clickBox);
+		}
+	
 } else {
 	if(blueTextbox != noone) {
 	instance_destroy(blueTextbox);

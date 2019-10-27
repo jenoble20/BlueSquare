@@ -17,3 +17,5 @@ endText[1] = "You beat the game!";
 stepText = startText;
 	
 page = 0;
+
+inst = 0;
