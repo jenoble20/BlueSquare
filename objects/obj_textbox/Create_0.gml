@@ -9,3 +9,6 @@ boxWidth = sprite_get_width(spr_box);
 stringHeight = string_height(text);
 
 page = 0;
+
+clickX = x+650;
+clickY = y+80;
