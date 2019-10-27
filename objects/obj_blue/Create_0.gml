@@ -8,7 +8,7 @@ yPos = y+68;
 startText[0] = "Hi. I'm Blue.";
 startText[1] = "Go over there and harass Red for me.";
 startText[2] = "If you do that for me, I'll let you beat the game.";
-startText[3] = "So, will you help me?";
+startText[3] = "*So, will you help me?";
 
 endText[0] = "Wow! He was so annoyed!";
 endText[1] = "You beat the game!";

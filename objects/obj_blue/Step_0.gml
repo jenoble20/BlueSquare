@@ -16,7 +16,7 @@ if(place_meeting(x,y, obj_player)){
 	
 	if string_pos("*", blueTextbox) != 0 
 		{
-			inst = instance_create(xPos, yPos, obj_clickBox);
+			instance_create_layer(xPos, yPos, "Dialogue", obj_clickBox);
 		}
 	
 } else {
