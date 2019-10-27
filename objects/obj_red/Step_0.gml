@@ -3,6 +3,7 @@
 
 
 if(place_meeting(x,y, obj_player)){
+<<<<<<< Updated upstream
 	
 
 	if(redTextbox == noone) {
@@ -17,5 +18,27 @@ if(place_meeting(x,y, obj_player)){
 		instance_destroy(redTextbox);
 		redTextbox=noone;
 		}
+=======
+	if(obj_blue.blueMission == true){
+		stepText = startText;
+	}
+		obj_red.annoyed = true;
+
+	
+		if(redTextbox == noone) {
+			redTextbox = instance_create_layer( xPos, yPos, "Text", obj_textbox);
+			redTextbox.text = stepText;
+			show_debug_message(redTextbox.page);
+		}
+	
+		//	if(redTextbox.page == 2 ) {
+		//		annoyed = true;
+		//	}
+
+} else {
+	if(redTextbox != noone) {
+	instance_destroy(redTextbox);
+	redTextbox=noone;
+>>>>>>> Stashed changes
 	}
 }
